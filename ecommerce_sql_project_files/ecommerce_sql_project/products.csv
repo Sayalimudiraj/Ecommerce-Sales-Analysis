@@ -1,0 +1,111 @@
+product_id,product_name,category,subcategory,cost_price,selling_price
+1,Wireless Earbuds,Electronics,Wireless Earbuds,1137,1226
+2,Wireless Earbuds Premium,Electronics,Wireless Earbuds,1111,1567
+3,Bluetooth Speaker,Electronics,Bluetooth Speaker,1471,1775
+4,Bluetooth Speaker Premium,Electronics,Bluetooth Speaker,1398,1925
+5,Bluetooth Speaker Classic,Electronics,Bluetooth Speaker,1330,1776
+6,Bluetooth Speaker Pro,Electronics,Bluetooth Speaker,1369,1560
+7,Smart Watch,Electronics,Smart Watch,2559,2778
+8,Smart Watch Premium,Electronics,Smart Watch,2896,4409
+9,Smart Watch Classic,Electronics,Smart Watch,2190,2431
+10,Power Bank,Electronics,Power Bank,793,1442
+11,Power Bank Premium,Electronics,Power Bank,908,978
+12,Power Bank Classic,Electronics,Power Bank,637,859
+13,USB-C Hub,Electronics,USB-C Hub,1070,1787
+14,USB-C Hub Premium,Electronics,USB-C Hub,986,1238
+15,USB-C Hub Classic,Electronics,USB-C Hub,945,1188
+16,USB-C Hub Pro,Electronics,USB-C Hub,1145,1515
+17,Keyboard,Electronics,Keyboard,1430,1475
+18,Keyboard Premium,Electronics,Keyboard,716,1135
+19,Keyboard Classic,Electronics,Keyboard,1259,1409
+20,Mouse,Electronics,Mouse,740,894
+21,Mouse Premium,Electronics,Mouse,459,895
+22,Mouse Classic,Electronics,Mouse,495,1090
+23,Mouse Pro,Electronics,Mouse,579,898
+24,Headphones,Electronics,Headphones,1954,3076
+25,Headphones Premium,Electronics,Headphones,1735,2396
+26,Headphones Classic,Electronics,Headphones,1535,2301
+27,T-Shirt,Fashion,T-Shirt,504,772
+28,T-Shirt Premium,Fashion,T-Shirt,300,810
+29,T-Shirt Classic,Fashion,T-Shirt,413,547
+30,T-Shirt Pro,Fashion,T-Shirt,439,629
+31,Jeans,Fashion,Jeans,746,1928
+32,Jeans Premium,Fashion,Jeans,926,1254
+33,Jeans Classic,Fashion,Jeans,716,1280
+34,Sneakers,Fashion,Sneakers,2096,3312
+35,Sneakers Premium,Fashion,Sneakers,1755,2389
+36,Sneakers Classic,Fashion,Sneakers,1212,2045
+37,Sneakers Pro,Fashion,Sneakers,1575,2076
+38,Backpack,Fashion,Backpack,1083,1364
+39,Backpack Premium,Fashion,Backpack,1011,1604
+40,Backpack Classic,Fashion,Backpack,1170,1545
+41,Kurta,Fashion,Kurta,900,1587
+42,Kurta Premium,Fashion,Kurta,902,1403
+43,Kurta Classic,Fashion,Kurta,572,1352
+44,Handbag,Fashion,Handbag,1146,1462
+45,Handbag Premium,Fashion,Handbag,1919,2949
+46,Handbag Classic,Fashion,Handbag,1176,2316
+47,Wrist Watch,Fashion,Wrist Watch,1020,3196
+48,Wrist Watch Premium,Fashion,Wrist Watch,969,1303
+49,Wrist Watch Classic,Fashion,Wrist Watch,999,1055
+50,Wrist Watch Pro,Fashion,Wrist Watch,1744,2055
+51,Mixer Grinder,Home & Kitchen,Mixer Grinder,2036,2344
+52,Mixer Grinder Premium,Home & Kitchen,Mixer Grinder,2524,2863
+53,Mixer Grinder Classic,Home & Kitchen,Mixer Grinder,1809,2734
+54,Mixer Grinder Pro,Home & Kitchen,Mixer Grinder,2317,3280
+55,Cookware Set,Home & Kitchen,Cookware Set,1323,3332
+56,Cookware Set Premium,Home & Kitchen,Cookware Set,2199,2261
+57,Cookware Set Classic,Home & Kitchen,Cookware Set,1213,3422
+58,Bedsheet Set,Home & Kitchen,Bedsheet Set,921,963
+59,Bedsheet Set Premium,Home & Kitchen,Bedsheet Set,517,1631
+60,Bedsheet Set Classic,Home & Kitchen,Bedsheet Set,781,1359
+61,Bedsheet Set Pro,Home & Kitchen,Bedsheet Set,793,840
+62,Water Bottle,Home & Kitchen,Water Bottle,370,491
+63,Water Bottle Premium,Home & Kitchen,Water Bottle,204,283
+64,Water Bottle Classic,Home & Kitchen,Water Bottle,418,486
+65,Water Bottle Pro,Home & Kitchen,Water Bottle,273,401
+66,Storage Containers,Home & Kitchen,Storage Containers,519,807
+67,Storage Containers Premium,Home & Kitchen,Storage Containers,667,878
+68,Storage Containers Classic,Home & Kitchen,Storage Containers,386,822
+69,Storage Containers Pro,Home & Kitchen,Storage Containers,290,702
+70,Desk Lamp,Home & Kitchen,Desk Lamp,870,1478
+71,Desk Lamp Premium,Home & Kitchen,Desk Lamp,649,1392
+72,Desk Lamp Classic,Home & Kitchen,Desk Lamp,631,968
+73,Air Fryer,Home & Kitchen,Air Fryer,4195,4555
+74,Air Fryer Premium,Home & Kitchen,Air Fryer,3838,3997
+75,Air Fryer Classic,Home & Kitchen,Air Fryer,2691,4381
+76,Air Fryer Pro,Home & Kitchen,Air Fryer,3276,4850
+77,Face Wash,Beauty & Personal Care,Face Wash,221,265
+78,Face Wash Premium,Beauty & Personal Care,Face Wash,263,295
+79,Face Wash Classic,Beauty & Personal Care,Face Wash,279,352
+80,Face Wash Pro,Beauty & Personal Care,Face Wash,121,406
+81,Moisturizer,Beauty & Personal Care,Moisturizer,510,709
+82,Moisturizer Premium,Beauty & Personal Care,Moisturizer,469,547
+83,Moisturizer Classic,Beauty & Personal Care,Moisturizer,450,501
+84,Hair Dryer,Beauty & Personal Care,Hair Dryer,916,2363
+85,Hair Dryer Premium,Beauty & Personal Care,Hair Dryer,1608,2218
+86,Sunscreen,Beauty & Personal Care,Sunscreen,338,391
+87,Sunscreen Premium,Beauty & Personal Care,Sunscreen,238,555
+88,Sunscreen Classic,Beauty & Personal Care,Sunscreen,478,796
+89,Shampoo,Beauty & Personal Care,Shampoo,166,287
+90,Shampoo Premium,Beauty & Personal Care,Shampoo,311,349
+91,Shampoo Classic,Beauty & Personal Care,Shampoo,256,586
+92,Shampoo Pro,Beauty & Personal Care,Shampoo,223,638
+93,Perfume,Beauty & Personal Care,Perfume,1315,1502
+94,Perfume Premium,Beauty & Personal Care,Perfume,1112,1474
+95,Perfume Classic,Beauty & Personal Care,Perfume,992,2182
+96,Perfume Pro,Beauty & Personal Care,Perfume,1296,2433
+97,Notebook Set,Books & Stationery,Notebook Set,178,243
+98,Notebook Set Premium,Books & Stationery,Notebook Set,100,258
+99,Notebook Set Classic,Books & Stationery,Notebook Set,168,211
+100,Fiction Book,Books & Stationery,Fiction Book,261,409
+101,Fiction Book Premium,Books & Stationery,Fiction Book,364,413
+102,Exam Prep Book,Books & Stationery,Exam Prep Book,559,893
+103,Exam Prep Book Premium,Books & Stationery,Exam Prep Book,453,879
+104,Exam Prep Book Classic,Books & Stationery,Exam Prep Book,417,462
+105,Pen Set,Books & Stationery,Pen Set,84,229
+106,Pen Set Premium,Books & Stationery,Pen Set,112,171
+107,Pen Set Classic,Books & Stationery,Pen Set,95,195
+108,Pen Set Pro,Books & Stationery,Pen Set,98,183
+109,Planner,Books & Stationery,Planner,294,473
+110,Planner Premium,Books & Stationery,Planner,289,416
